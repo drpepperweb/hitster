@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Hitster Maison</title>
+</head>
+<body style="text-align:center; margin-top:50px; font-family:Arial;">
+
+  <h2>🎵 Écoute l’extrait</h2>
+
+  <audio id="player" controls autoplay style="width:80%; max-width:400px;"></audio>
+
+  <script>
+    const chansons = {
+      1: "LIEN_AUDIO_1",
+      2: "LIEN_AUDIO_2",
+      3: "LIEN_AUDIO_3"
+    };
+
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("song");
+
+    const player = document.getElementById("player");
+
+    if (chansons[id]) {
+      player.src = chansons[id];
+    } else {
+      document.body.innerHTML += "<p>Chanson introuvable 😢</p>";
+    }
+  </script>
+
+</body>
+</html>
