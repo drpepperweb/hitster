@@ -12,7 +12,7 @@
 
 ## À préparer
 
-- [ ] Hakuna Matata
+- [x] Hakuna Matata
 - [ ] Ce rêve bleu
 - [ ] Sous l'océan
 - [ ] Libérée, délivrée
