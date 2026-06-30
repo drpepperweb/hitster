@@ -8,8 +8,8 @@
 | 2 | Ce rêve bleu | Aladdin | 1992 | ✅ |
 | 3 | Sous l'océan | La Petite Sirène | 1989 | ✅ |
 | 4 | Libérée, délivrée | La Reine des neiges | 2013 | ✅ |
-| 5 | Combien je vais loin | Vaiana | 2016 | ✅ |
-| 6 | L'amour brille sous les étoiles | Le Roi Lion | 1994 | ⬜ |
+| 5 | Aller plus loin | Mohana 2 | 2024 | ✅ |
+| 6 | L'amour brille sous les étoiles | Le Roi Lion | 1994 | ✅ |
 | 7 | Je voudrais déjà être roi | Le Roi Lion | 1994 | ⬜ |
 | 8 | Il en faut peu pour être heureux | Le Livre de la jungle | 1967 | ⬜ |
 | 9 | C'est la fête | La Belle et la Bête | 1991 | ⬜ |
