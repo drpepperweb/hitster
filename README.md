@@ -10,8 +10,8 @@
 | 4 | Libérée, délivrée | La Reine des neiges | 2013 | ✅ |
 | 5 | Aller plus loin | Mohana 2 | 2024 | ✅ |
 | 6 | L'amour brille sous les étoiles | Le Roi Lion | 1994 | ✅ |
-| 7 | Je voudrais déjà être roi | Le Roi Lion | 1994 | ⬜ |
-| 8 | Il en faut peu pour être heureux | Le Livre de la jungle | 1967 | ⬜ |
+| 7 | Je voudrais déjà être roi | Le Roi Lion | 1994 | ✅ |
+| 8 | Il en faut peu pour être heureux | Le Livre de la jungle | 1967 | ✅ |
 | 9 | C'est la fête | La Belle et la Bête | 1991 | ⬜ |
 | 10 | Histoire éternelle | La Belle et la Bête | 1991 | ⬜ |
 | 11 | Prince Ali | Aladdin | 1992 | ⬜ |
