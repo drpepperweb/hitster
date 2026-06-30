@@ -2,12 +2,6 @@
 
 ## Progression
 
-| ID | Chanson | Film | Audio |
-|----|----------|-------|--------|
-| 1 | Hakuna Matata | Le Roi Lion | # Hitster Disney
-
-## Progression
-
 | ID | Chanson | Film | Statut |
 |----|----------|--------|---------|
 | 1 | Hakuna Matata | Le Roi Lion | ✅ |
