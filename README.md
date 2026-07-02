@@ -23,7 +23,7 @@
 | 17 | Couleurs du vent | Pocahontas | 1995 | ✅ |
 | 18 | Je vais y arriver | Raiponce | 2010 | ✅ |
 | 19 | De zéro en héros | Hercule | 1997 | ✅ |
-| 20 | Ne parlez pas de Bruno | Encanto | 2021 | ⬜ |
+| 20 | Ne parlez pas de Bruno | Encanto | 2021 | ✅ |
 | 21 | Au bout du rêve | La Princesse et la Grenouille | 2009 | ⬜ |
 | 22 | Hawaiian Roller Coaster Ride | Lilo et Stitch | 2002 | ⬜ |
 | 23 | Remember Me | Coco | 2017 | ⬜ |
