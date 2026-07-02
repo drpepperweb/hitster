@@ -16,6 +16,5 @@
 | 10 | Histoire éternelle | La Belle et la Bête | 1991 | ✅ |
 | 11 | Prince Ali | Aladdin | 1992 | ✅ |
 | 12 | Je suis ton meilleur ami | Aladdin | 1992 | ✅ |
-| 13 | Partir là-bas | La Petite Sirène | 1989 | ⬜ |
-| 14 | Sous l'océan (version anglaise) | The Little Mermaid | 1989 | ⬜ |
-| 15 | Tout le monde veut devenir un cat | Les Aristochats | 1970 | ⬜ |
+| 13 | Partir là-bas | La Petite Sirène | 1989 | ✅ |
+| 14 | Tout le monde veut devenir un cat | Les Aristochats | 1970 | ⬜ |
