@@ -20,7 +20,7 @@
 | 14 | Tout le monde veut devenir un cat | Les Aristochats | 1970 | ✅ |
 | 15 | Comme un homme | Mulan | 1998 | ✅ |
 | 16 | Tu as trouvé un ami | Toy Story | 1995 | ✅ |
-| 17 | Couleurs du vent | Pocahontas | 1995 | ⬜ |
+| 17 | Couleurs du vent | Pocahontas | 1995 | ✅ |
 | 18 | Je vais y arriver | Raiponce | 2010 | ⬜ |
 | 19 | De zéro en héros | Hercule | 1997 | ⬜ |
 | 20 | We Don't Talk About Bruno | Encanto | 2021 | ⬜ |
