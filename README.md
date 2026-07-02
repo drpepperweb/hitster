@@ -25,16 +25,17 @@
 | 19 | De zéro en héros | Hercule | 1997 | ✅ |
 | 20 | Ne parlez pas de Bruno | Encanto | 2021 | ✅ |
 | 21 | Au bout du rêve | La Princesse et la Grenouille | 2009 | ✅ |
-| 22 | Hawaiian Roller Coaster Ride | Lilo et Stitch | 2002 | ⬜ |
-| 23 | Remember Me | Coco | 2017 | ⬜ |
-| 24 | Into the Unknown | La Reine des neiges II | 2019 | ⬜ |
-| 25 | Son of Man | Tarzan | 1999 | ⬜ |
-| 26 | Touch the Sky | Rebelle | 2012 | ⬜ |
-| 27 | Un Poco Loco | Coco | 2017 | ⬜ |
-| 28 | Surface Pressure | Encanto | 2021 | ⬜ |
+| 22 | La chanson de la plage d'Hawaï | Lilo et Stitch | 2002 | ⬜ |
+| 23 | Ne m'oublie pas | Coco | 2017 | ⬜ |
+| 24 | Dans un autre monde | La Reine des neiges II | 2019 | ⬜ |
+| 25 | Enfant de l'homme | Tarzan | 1999 | ⬜ |
+| 26 | Toucher le ciel | Rebelle | 2012 | ⬜ |
+| 27 | Ne m'oublie pas | Coco | 2017 | ⬜ |
+| 28 | Sous les apparences | Encanto | 2021 | ⬜ |
 | 29 | Je ne dirai pas que je suis amoureux | Hercule | 1997 | ⬜ |
 | 30 | Le renouveau | La Reine des neiges | 2013 | ⬜ |
-| 31 | Breaking Free | High School Musical | 2006 | ⬜ |
-| 32 | C'est moi le roi du monde | Cars | 2006 | ⬜ |
-| 33 | Strangers Like Me | Tarzan | 1999 | ⬜ |
-| 34 | Friend Like Me (anglais) | Aladdin | 1992 | ⬜ |
+| 31 | Tous ensemble | High School Musical | 2006 | ⬜ |
+| 32 | La route est devant moi | Cars | 2006 | ⬜ |
+| 33 | Entre comme moi | Tarzan | 1999 | ⬜ |
+| 34 | Réflexion | Mulan | 1998 | ⬜ |
+``
