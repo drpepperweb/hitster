@@ -27,7 +27,7 @@
 | 21 | Au bout du rêve | La Princesse et la Grenouille | 2009 | ✅ |
 | 22 | Un jour mon prince viendra | Blanche-Neige et les sept nains | 1937 | ✅ |
 | 23 | Ne m'oublie pas | Coco | 2017 | ✅ |
-| 24 | Dans un autre monde | La Reine des neiges II | 2019 | ⬜ |
+| 24 | Dans un autre monde | La Reine des neiges II | 2019 | ✅ |
 | 25 | Enfant de l'homme | Tarzan | 1999 | ⬜ |
 | 26 | Toucher le ciel | Rebelle | 2012 | ⬜ |
 | 27 | Ne m'oublie pas | Coco | 2017 | ⬜ |
