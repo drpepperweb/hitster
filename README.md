@@ -32,7 +32,7 @@
 | 26 | Vers le ciel | Rebelle | 2012 | ✅ |
 | 27 | Un poco loco | Coco | 2017 | ✅ |
 | 28 | Sous les apparences | Encanto | 2021 | ✅ |
-| 29 | Je ne dirai pas que je suis amoureux | Hercule | 1997 | ⬜ |
+| 29 | J'amais je n'avouerai | Hercule | 1997 | ⬜ |
 | 30 | Le renouveau | La Reine des neiges | 2013 | ⬜ |
 | 31 | Tous ensemble | High School Musical | 2006 | ⬜ |
 | 32 | La route est devant moi | Cars | 2006 | ⬜ |
