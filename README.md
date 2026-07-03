@@ -29,8 +29,8 @@
 | 23 | Ne m'oublie pas | Coco | 2017 | ✅ |
 | 24 | Dans un autre monde | La Reine des neiges II | 2019 | ✅ |
 | 25 | Enfant de l'homme | Tarzan | 1999 | ✅ |
-| 26 | Toucher le ciel | Rebelle | 2012 | ⬜ |
-| 27 | Ne m'oublie pas | Coco | 2017 | ⬜ |
+| 26 | Vers le ciel | Rebelle | 2012 | ✅ |
+| 27 | Un poco loco | Coco | 2017 | ⬜ |
 | 28 | Sous les apparences | Encanto | 2021 | ⬜ |
 | 29 | Je ne dirai pas que je suis amoureux | Hercule | 1997 | ⬜ |
 | 30 | Le renouveau | La Reine des neiges | 2013 | ⬜ |
