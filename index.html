@@ -14,18 +14,17 @@
 <audio id="player"></audio>
 
 <button id="playBtn" onclick="startSong()" style="
-  width:260px;
-  height:260px;
+  width:350px;
+  height:350px;
   border:none;
   background:transparent;
-  color:black;
-  font-size:200px;
-  display:flex;
-  justify-content:center;
-  align-items:center;
   cursor:pointer;
 ">
-▶
+
+<svg width="260" height="260" viewBox="0 0 100 100">
+  <polygon points="20,10 90,50 20,90" fill="black"/>
+</svg>
+
 </button>
 
 <script>
@@ -76,6 +75,7 @@ if (chansons[id]) {
 
 function startSong() {
   player.play();
+  document.getElementById("playBtn").style.display = "none";
 }
 
 </script>
