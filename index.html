@@ -1,17 +1,30 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <title>Hitster Maison</title>
-</head>
-<body style="text-align:center; margin-top:50px; font-family:Arial;">
+<body style="
+  margin:0;
+  background:black;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  font-family:Arial;
+">
 
-  <h2>🎵 Écoute l’extrait</h2>
+<audio id="player"></audio>
 
-  <audio id="player" controls autoplay style="width:80%; max-width:400px;"></audio>
+<button id="playBtn" onclick="startSong()" style="
+  width:180px;
+  height:180px;
+  border-radius:50%;
+  font-size:80px;
+  background:#ffcc00;
+  border:none;
+  cursor:pointer;
+  box-shadow:0 0 25px #ffcc00;
+">
+▶
+</button>
 
-  <script>
-    
+<script>
+
 const chansons = {
   1: "./audio/1.mp3",
   2: "./audio/2.mp3",
@@ -27,7 +40,7 @@ const chansons = {
   12: "./audio/12.mp3",
   13: "./audio/13.mp3",
   14: "./audio/14.mp3",
-  15: "./audio/15.mp3", 
+  15: "./audio/15.mp3",
   16: "./audio/16.mp3",
   17: "./audio/17.mp3",
   18: "./audio/18.mp3",
@@ -45,17 +58,21 @@ const chansons = {
   30: "./audio/30.mp3"
 };
 
-    const params = new URLSearchParams(window.location.search);
-    const id = params.get("song");
+const params = new URLSearchParams(window.location.search);
+const id = params.get("song");
 
-    const player = document.getElementById("player");
+const player = document.getElementById("player");
 
-    if (chansons[id]) {
-      player.src = chansons[id];
-    } else {
-      document.body.innerHTML += "<p>Chanson introuvable 😢</p>";
-    }
-  </script>
+if (chansons[id]) {
+  player.src = chansons[id];
+} else {
+  document.body.innerHTML = "<h2 style='color:white'>Chanson introuvable 😢</h2>";
+}
+
+function startSong() {
+  player.play();
+}
+
+</script>
 
 </body>
-</html>
