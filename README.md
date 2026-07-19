@@ -34,7 +34,7 @@
 | 28 | Sous les apparences | Encanto | 2021 | ✅ |
 | 29 | J'amais je n'avouerai | Hercule | 1997 | ✅ |
 | 30 | Le renouveau | La Reine des neiges | 2013 | ✅ |
-| 31 |  We're All In This Together | High School Musical | 2006 | ⬜ |
-| 32 | La route est devant moi | Cars | 2006 | ⬜ |
+| 31 |  We're All In This Together | High School Musical | 2006 | ✅ |
+| 32 | Notre ville | Cars | 2006 | ✅ |
 | 33 | Entre comme moi | Tarzan | 1999 | ⬜ |
 | 34 | Réflexion | Mulan | 1998 | ⬜ |
