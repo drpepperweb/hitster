@@ -36,5 +36,5 @@
 | 30 | Le renouveau | La Reine des neiges | 2013 | ✅ |
 | 31 |  We're All In This Together | High School Musical | 2006 | ✅ |
 | 32 | Notre ville | Cars | 2006 | ✅ |
-| 33 | Entre comme moi | Tarzan | 1999 | ⬜ |
+| 33 | Quand on prie la bonne étoile | Pinocchio | 1940 | ✅ |
 | 34 | Réflexion | Mulan | 1998 | ⬜ |
