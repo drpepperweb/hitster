@@ -39,3 +39,4 @@
 | 33 | Quand on prie la bonne étoile | Pinocchio | 1940 | ✅ |
 | 34 | Mon tout petit | Dumbo | 1941 | ✅ |
 | 35 | Bibidi Bobidi Boo | Cendrillon | 1950 | ✅ |
+| 36 | La deuxième petite étoile | Peter Pan | 1953 | ✅ |
