@@ -40,3 +40,8 @@
 | 34 | Mon tout petit | Dumbo | 1941 | ✅ |
 | 35 | Bibidi Bobidi Boo | Cendrillon | 1950 | ✅ |
 | 36 | La deuxième petite étoile | Peter Pan | 1953 | ✅ |
+| 37 | L'amour est éternel | Bambi | 1942 | ✅ |
+| 38 | Symphony No. 5 | Fantasia 2000| 2000 | ✅ |
+| 39 | The Three Caballeros | The Three Caballeros | 1945 | ✅ |
+| 40 | Pays du merveilleux | Alice au pays des merveilles | 1951 | ✅ |
+
