@@ -45,5 +45,6 @@
 | 39 | The Three Caballeros | The Three Caballeros | 1945 | ✅ |
 | 40 | Pays du merveilleux | Alice au pays des merveilles | 1951 | ✅ |
 | 41 | Belle nuit (Bella Notte) | La belle et le clochard | 1955 | ✅ |
-| 42 | J'en ai rêvé | La belle au bois dormant | 1955 | ✅ |
+| 42 | J'en ai rêvé | La belle au bois dormant | 1959 | ✅ |
+| 43 | Cruella d'Enfer | Les 101 Dalmatiens | 1961 | ✅ |
 
