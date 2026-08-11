@@ -44,4 +44,5 @@
 | 38 | Symphony No. 5 | Fantasia 2000| 2000 | ✅ |
 | 39 | The Three Caballeros | The Three Caballeros | 1945 | ✅ |
 | 40 | Pays du merveilleux | Alice au pays des merveilles | 1951 | ✅ |
+| 41 | Belle nuit (Bella Notte) | La belle et le clochard | 1955 | ✅ |
 
