@@ -47,4 +47,5 @@
 | 41 | Belle nuit (Bella Notte) | La belle et le clochard | 1955 | ✅ |
 | 42 | J'en ai rêvé | La belle au bois dormant | 1959 | ✅ |
 | 43 | Cruella d'Enfer | Les 101 Dalmatiens | 1961 | ✅ |
+| 44 | Higitus Figitus | Merlin l'Enchanteur | 1963 | ✅ |
 
