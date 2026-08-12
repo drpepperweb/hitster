@@ -48,4 +48,5 @@
 | 42 | J'en ai rêvé | La belle au bois dormant | 1959 | ✅ |
 | 43 | Cruella d'Enfer | Les 101 Dalmatiens | 1961 | ✅ |
 | 44 | Higitus Figitus | Merlin l'Enchanteur | 1963 | ✅ |
+| 44 | Quel beau jour vraiment | Robin des bois | 1973 | ✅ |
 
