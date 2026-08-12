@@ -49,4 +49,5 @@
 | 43 | Cruella d'Enfer | Les 101 Dalmatiens | 1961 | ✅ |
 | 44 | Higitus Figitus | Merlin l'Enchanteur | 1963 | ✅ |
 | 45 | Quel beau jour vraiment | Robin des bois | 1973 | ✅ |
+| 46 | Winnie l'Ourson | Les Aventures de Winnie l'Ourson | 1977| ✅ |
 
