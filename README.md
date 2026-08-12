@@ -50,4 +50,5 @@
 | 44 | Higitus Figitus | Merlin l'Enchanteur | 1963 | ✅ |
 | 45 | Quel beau jour vraiment | Robin des bois | 1973 | ✅ |
 | 46 | Winnie l'Ourson | Les Aventures de Winnie l'Ourson | 1977| ✅ |
+| 47 | Demain, c'est un autre jour | Les Aventures de Bernard et Bianca | 1977 |✅ |
 
