@@ -52,8 +52,6 @@
 | 46 | Winnie l'Ourson | Les Aventures de Winnie l'Ourson | 1977| ✅ |
 | 47 | Demain, c'est un autre jour | Les Aventures de Bernard et Bianca | 1977 |✅ |
 | 48 | Rien qu'un jour | Le Bossu de Notre-Dame | 1996 | ✅ |
-| 49 | Mon tout petit | Kuzco, l'Empereur Mégalo | 2000 | ⬜ |
-| 50 | Où va le rêve ? | Atlantide, l'Empire Perdu | 2001 | ⬜ |
-| 51 | Hawaiian Roller Coaster Ride | Lilo et Stitch | 2002 | ⬜ |
+| 49 | Hawaiian Roller Coaster Ride | Lilo et Stitch | 2002 | ⬜ |
 | 52 | Un autre pas vers mon rêve | Bienvenue chez les Robinson | 2007 | ⬜ |
 
