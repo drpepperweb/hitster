@@ -54,7 +54,7 @@
 | 48 | Rien qu'un jour | Le Bossu de Notre-Dame | 1996 | ✅ |
 | 49 | Hawaiian Roller Coaster Ride | Lilo et Stitch | 2002 | ✅ |
 | 50 | Au seuil de mon avenir | Pocahontas II : Un monde nouveau | 1998 | ✅ |
-| 51 | Je suis là | Frère des ours | 2003 | ⬜ |
+| 51 | Je m'en vais | Frère des ours | 2003 | ✅ |
 | 52 | Little Wonders | Bienvenue chez les Robinson | 2007 | ⬜ |
 | 53 | Le bleu lumière | Vaiana | 2016 | ⬜ |
 | 54 | Try Everything | Zootopie | 2016 | ⬜ |
