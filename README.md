@@ -8,7 +8,7 @@
 | 2 | Ce rêve bleu | Aladdin | 1992 | ✅ |
 | 3 | Sous l'océan | La Petite Sirène | 1989 | ✅ |
 | 4 | Libérée, délivrée | La Reine des neiges | 2013 | ✅ |
-| 5 | Aller plus loin | Mohana 2 | 2024 | ✅ |
+| 5 | Aller plus loin | Moana 2 | 2024 | ✅ |
 | 6 | L'amour brille sous les étoiles | Le Roi Lion | 1994 | ✅ |
 | 7 | Je voudrais déjà être roi | Le Roi Lion | 1994 | ✅ |
 | 8 | Il en faut peu pour être heureux | Le Livre de la jungle | 1967 | ✅ |
@@ -32,7 +32,7 @@
 | 26 | Vers le ciel | Rebelle | 2012 | ✅ |
 | 27 | Un poco loco | Coco | 2017 | ✅ |
 | 28 | Sous les apparences | Encanto | 2021 | ✅ |
-| 29 | J'amais je n'avouerai | Hercule | 1997 | ✅ |
+| 29 | Jamais je n'avouerai | Hercule | 1997 | ✅ |
 | 30 | Le renouveau | La Reine des neiges | 2013 | ✅ |
 | 31 |  We're All In This Together | High School Musical | 2006 | ✅ |
 | 32 | Notre ville | Cars | 2006 | ✅ |
@@ -53,5 +53,10 @@
 | 47 | Demain, c'est un autre jour | Les Aventures de Bernard et Bianca | 1977 |✅ |
 | 48 | Rien qu'un jour | Le Bossu de Notre-Dame | 1996 | ✅ |
 | 49 | Hawaiian Roller Coaster Ride | Lilo et Stitch | 2002 | ✅ |
+| 50 | Au seuil de mon avenir | Pocahontas II : Un monde nouveau | 1998 | ⬜ |
+| 51 | Je suis là | Frère des ours | 2003 | ⬜ |
+| 52 | Little Wonders | Bienvenue chez les Robinson | 2007 | ⬜ |
+| 53 | Le bleu lumière | Vaiana | 2016 | ⬜ |
+| 54 | Try Everything | Zootopie | 2016 | ⬜ |
 
 
