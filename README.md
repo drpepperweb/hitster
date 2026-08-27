@@ -57,6 +57,6 @@
 | 51 | Je m'en vais | Frère des ours | 2003 | ✅ |
 | 52 | Little Wonders | Bienvenue chez les Robinson | 2007 | ✅ |
 | 53 | Le bleu lumière | Moana | 2016 | ✅ |
-| 54 | Try Everything | Zootopie | 2016 | ⬜ |
+| 54 | Try Everything | Zootopie | 2016 | ✅ |
 
 
