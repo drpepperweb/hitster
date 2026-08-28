@@ -58,7 +58,7 @@
 | 52 | Little Wonders | Bienvenue chez les Robinson | 2007 | ✅ |
 | 53 | Le bleu lumière | Moana | 2016 | ✅ |
 | 54 | Try Everything | Zootopie | 2016 | ✅ |
-| 55 | Pourquoi m'inquiéter ? | Oliver et Compagnie | 1988 | ⬜ |
+| 55 |  T'as Trouvé Un Ami | Histoire de Jouets | 1995 | ✅ |
 | 56 | On ne sait jamais | Chicken Little | 2005 | ⬜ |
 | 57 | Nobody Like U | Alerte rouge | 2022 | ⬜ |
 | 58 | Je suis un gagnant | Volt, star malgré lui | 2008 | ⬜ |
