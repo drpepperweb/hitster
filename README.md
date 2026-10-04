@@ -61,6 +61,6 @@
 | 55 |  T'as Trouvé Un Ami | Histoire de Jouets | 1995 | ✅ |
 | 56 | Nobody Like U | Alerte rouge | 2022 | ✅ |
 | 57 | Un chat, un chien et un rongeur | Volt | 2008 | ✅ |
-| 58 | L'explorateur | La Planète au Trésor | 2002 | ⬜ |
-
+| 58 | Un homme libre | La Planète au Trésor | 2002 | ✅ |
+| 59 | When can I see you again | Le monde de Ralph | 2012 | ✅ |
 
