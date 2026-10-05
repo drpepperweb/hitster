@@ -63,4 +63,6 @@
 | 57 | Un chat, un chien et un rongeur | Volt | 2008 | ✅ |
 | 58 | Un homme libre | La Planète au Trésor | 2002 | ✅ |
 | 59 | When can I see you again | Le monde de Ralph | 2012 | ✅ |
+| 60 | Chanson thème | Monstres & cie | 2002 | ✅ |
+| 61 | Beyond the sea | Le monde de Nemo | 2003 | ✅ |
 
